@@ -1,0 +1,14 @@
+# requirements.txt
+streamlit==1.41.1
+pymupdf==1.25.1
+pdfplumber==0.11.5
+python-docx==1.1.2
+reportlab==4.2.5
+matplotlib==3.9.2
+pandas==2.2.3
+numpy==2.0.2
+beautifulsoup4==4.12.3
+requests==2.32.3
+google-genai==1.0.0
+python-dotenv==1.0.1
+pytest==8.3.4
