@@ -502,7 +502,7 @@ This reduces hallucination and improves report reliability.
 
 ## **Live Demo**
 
-[Live Demo](YOUR_STREAMLIT_APP_LINK_HERE)
+[Live Demo](https://finance-analysis-system-qnbhcucyupqjnlidetqmkr.streamlit.app/)
 
 ---
 
